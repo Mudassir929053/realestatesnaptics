@@ -1,7 +1,7 @@
 /* 
 <!-- =======================================================
-Template Name: RealEstate
-Template URL: https://github.com/Mudassir929053?tab=repositories
+# Name: RealEstate
+# URL: https://github.com/Mudassir929053?tab=repositories
 Author: Mohd Abdul Mudassir
 Phone Number: 9676017586 
  ======================================================== --> */
@@ -13,8 +13,8 @@ Phone Number: 9676017586
 
   /* 
 <!-- =======================================================
-Template Name: RealEstate
-Template URL: https://github.com/Mudassir929053?tab=repositories
+# Name: RealEstate
+# URL: https://github.com/Mudassir929053?tab=repositories
 Author: Mohd Abdul Mudassir
 Phone Number: 9676017586 
  ======================================================== --> */
@@ -58,8 +58,8 @@ Phone Number: 9676017586
 
  /* 
 <!-- =======================================================
-Template Name: RealEstate
-Template URL: https://github.com/Mudassir929053?tab=repositories
+# Name: RealEstate
+# URL: https://github.com/Mudassir929053?tab=repositories
 Author: Mohd Abdul Mudassir
 Phone Number: 9676017586 
  ======================================================== --> */
@@ -305,8 +305,8 @@ Phone Number: 9676017586
 
  /* 
 <!-- =======================================================
-Template Name: RealEstate
-Template URL: https://github.com/Mudassir929053?tab=repositories
+# Name: RealEstate
+# URL: https://github.com/Mudassir929053?tab=repositories
 Author: Mohd Abdul Mudassir
 Phone Number: 9676017586 
  ======================================================== --> */
@@ -523,8 +523,8 @@ Phone Number: 9676017586
 
 /* 
 <!-- =======================================================
-Template Name: RealEstate
-Template URL: https://github.com/Mudassir929053?tab=repositories
+# Name: RealEstate
+# URL: https://github.com/Mudassir929053?tab=repositories
 Author: Mohd Abdul Mudassir
 Phone Number: 9676017586 
  ======================================================== --> */
@@ -581,8 +581,8 @@ Phone Number: 9676017586
 
 /* 
 <!-- =======================================================
-Template Name: RealEstate
-Template URL: https://github.com/Mudassir929053?tab=repositories
+# Name: RealEstate
+# URL: https://github.com/Mudassir929053?tab=repositories
 Author: Mohd Abdul Mudassir
 Phone Number: 9676017586 
  ======================================================== --> */
@@ -630,8 +630,8 @@ Phone Number: 9676017586
 
  /* 
 <!-- =======================================================
-Template Name: RealEstate
-Template URL: https://github.com/Mudassir929053?tab=repositories
+# Name: RealEstate
+# URL: https://github.com/Mudassir929053?tab=repositories
 Author: Mohd Abdul Mudassir
 Phone Number: 9676017586 
  ======================================================== --> */
@@ -695,8 +695,8 @@ Phone Number: 9676017586
 
   /* 
 <!-- =======================================================
-Template Name: RealEstate
-Template URL: https://github.com/Mudassir929053?tab=repositories
+# Name: RealEstate
+# URL: https://github.com/Mudassir929053?tab=repositories
 Author: Mohd Abdul Mudassir
 Phone Number: 9676017586 
  ======================================================== --> */
@@ -785,8 +785,8 @@ Phone Number: 9676017586
 
   /* 
 <!-- =======================================================
-Template Name: RealEstate
-Template URL: https://github.com/Mudassir929053?tab=repositories
+# Name: RealEstate
+# URL: https://github.com/Mudassir929053?tab=repositories
 Author: Mohd Abdul Mudassir
 Phone Number: 9676017586 
  ======================================================== --> */
@@ -811,8 +811,8 @@ Phone Number: 9676017586
 
   /* 
 <!-- =======================================================
-Template Name: RealEstate
-Template URL: https://github.com/Mudassir929053?tab=repositories
+# Name: RealEstate
+# URL: https://github.com/Mudassir929053?tab=repositories
 Author: Mohd Abdul Mudassir
 Phone Number: 9676017586 
  ======================================================== --> */
@@ -882,8 +882,8 @@ Phone Number: 9676017586
 
 /* 
 <!-- =======================================================
-Template Name: RealEstate
-Template URL: https://github.com/Mudassir929053?tab=repositories
+# Name: RealEstate
+# URL: https://github.com/Mudassir929053?tab=repositories
 Author: Mohd Abdul Mudassir
 Phone Number: 9676017586 
  ======================================================== --> */
@@ -942,8 +942,8 @@ Phone Number: 9676017586
 
 /* 
 <!-- =======================================================
-Template Name: RealEstate
-Template URL: https://github.com/Mudassir929053?tab=repositories
+# Name: RealEstate
+# URL: https://github.com/Mudassir929053?tab=repositories
 Author: Mohd Abdul Mudassir
 Phone Number: 9676017586 
  ======================================================== --> */
@@ -1057,8 +1057,8 @@ Phone Number: 9676017586
 
  /* 
 <!-- =======================================================
-Template Name: RealEstate
-Template URL: https://github.com/Mudassir929053?tab=repositories
+# Name: RealEstate
+# URL: https://github.com/Mudassir929053?tab=repositories
 Author: Mohd Abdul Mudassir
 Phone Number: 9676017586 
  ======================================================== --> */
@@ -1425,8 +1425,8 @@ Phone Number: 9676017586
 
  /* 
 <!-- =======================================================
-Template Name: RealEstate
-Template URL: https://github.com/Mudassir929053?tab=repositories
+# Name: RealEstate
+# URL: https://github.com/Mudassir929053?tab=repositories
 Author: Mohd Abdul Mudassir
 Phone Number: 9676017586 
  ======================================================== --> */
@@ -3494,8 +3494,8 @@ Phone Number: 9676017586
 
  /* 
 <!-- =======================================================
-Template Name: RealEstate
-Template URL: https://github.com/Mudassir929053?tab=repositories
+# Name: RealEstate
+# URL: https://github.com/Mudassir929053?tab=repositories
 Author: Mohd Abdul Mudassir
 Phone Number: 9676017586 
  ======================================================== --> */
@@ -3858,8 +3858,8 @@ Phone Number: 9676017586
 
 /* 
 <!-- =======================================================
-Template Name: RealEstate
-Template URL: https://github.com/Mudassir929053?tab=repositories
+# Name: RealEstate
+# URL: https://github.com/Mudassir929053?tab=repositories
 Author: Mohd Abdul Mudassir
 Phone Number: 9676017586 
  ======================================================== --> */
@@ -3978,8 +3978,8 @@ Phone Number: 9676017586
 
 /* 
 <!-- =======================================================
-Template Name: RealEstate
-Template URL: https://github.com/Mudassir929053?tab=repositories
+# Name: RealEstate
+# URL: https://github.com/Mudassir929053?tab=repositories
 Author: Mohd Abdul Mudassir
 Phone Number: 9676017586 
  ======================================================== --> */
@@ -4072,8 +4072,8 @@ Phone Number: 9676017586
 
 /* 
 <!-- =======================================================
-Template Name: RealEstate
-Template URL: https://github.com/Mudassir929053?tab=repositories
+# Name: RealEstate
+# URL: https://github.com/Mudassir929053?tab=repositories
 Author: Mohd Abdul Mudassir
 Phone Number: 9676017586 
  ======================================================== --> */
@@ -4166,8 +4166,8 @@ Phone Number: 9676017586
 
   /* 
 <!-- =======================================================
-Template Name: RealEstate
-Template URL: https://github.com/Mudassir929053?tab=repositories
+# Name: RealEstate
+# URL: https://github.com/Mudassir929053?tab=repositories
 Author: Mohd Abdul Mudassir
 Phone Number: 9676017586 
  ======================================================== --> */
@@ -4467,8 +4467,8 @@ Phone Number: 9676017586
 
  /* 
 <!-- =======================================================
-Template Name: RealEstate
-Template URL: https://github.com/Mudassir929053?tab=repositories
+# Name: RealEstate
+# URL: https://github.com/Mudassir929053?tab=repositories
 Author: Mohd Abdul Mudassir
 Phone Number: 9676017586 
  ======================================================== --> */
@@ -4693,8 +4693,8 @@ Phone Number: 9676017586
   defineJQueryPlugin(Offcanvas);
 /* 
 <!-- =======================================================
-Template Name: RealEstate
-Template URL: https://github.com/Mudassir929053?tab=repositories
+# Name: RealEstate
+# URL: https://github.com/Mudassir929053?tab=repositories
 Author: Mohd Abdul Mudassir
 Phone Number: 9676017586 
  ======================================================== --> */
@@ -4790,8 +4790,8 @@ Phone Number: 9676017586
 
 /* 
 <!-- =======================================================
-Template Name: RealEstate
-Template URL: https://github.com/Mudassir929053?tab=repositories
+# Name: RealEstate
+# URL: https://github.com/Mudassir929053?tab=repositories
 Author: Mohd Abdul Mudassir
 Phone Number: 9676017586 
  ======================================================== --> */
@@ -4863,7 +4863,7 @@ Phone Number: 9676017586
       for (const [selector, text] of Object.entries(this._config.content)) {
         this._setContent(templateWrapper, text, selector);
       }
-      const template = templateWrapper.children[0];
+      const # = templateWrapper.children[0];
       const extraClass = this._resolvePossibleFunction(this._config.extraClass);
       if (extraClass) {
         template.classList.add(...extraClass.split(' '));
@@ -4922,8 +4922,8 @@ Phone Number: 9676017586
 
   /* 
 <!-- =======================================================
-Template Name: RealEstate
-Template URL: https://github.com/Mudassir929053?tab=repositories
+# Name: RealEstate
+# URL: https://github.com/Mudassir929053?tab=repositories
 Author: Mohd Abdul Mudassir
 Phone Number: 9676017586 
  ======================================================== --> */
@@ -5430,8 +5430,8 @@ Phone Number: 9676017586
 
 /* 
 <!-- =======================================================
-Template Name: RealEstate
-Template URL: https://github.com/Mudassir929053?tab=repositories
+# Name: RealEstate
+# URL: https://github.com/Mudassir929053?tab=repositories
 Author: Mohd Abdul Mudassir
 Phone Number: 9676017586 
  ======================================================== --> */
@@ -5507,8 +5507,8 @@ Phone Number: 9676017586
 
  /* 
 <!-- =======================================================
-Template Name: RealEstate
-Template URL: https://github.com/Mudassir929053?tab=repositories
+# Name: RealEstate
+# URL: https://github.com/Mudassir929053?tab=repositories
 Author: Mohd Abdul Mudassir
 Phone Number: 9676017586 
  ======================================================== --> */
@@ -5762,8 +5762,8 @@ Phone Number: 9676017586
   defineJQueryPlugin(ScrollSpy);
 /* 
 <!-- =======================================================
-Template Name: RealEstate
-Template URL: https://github.com/Mudassir929053?tab=repositories
+# Name: RealEstate
+# URL: https://github.com/Mudassir929053?tab=repositories
 Author: Mohd Abdul Mudassir
 Phone Number: 9676017586 
  ======================================================== --> */
@@ -6028,8 +6028,8 @@ Phone Number: 9676017586
 
  /* 
 <!-- =======================================================
-Template Name: RealEstate
-Template URL: https://github.com/Mudassir929053?tab=repositories
+# Name: RealEstate
+# URL: https://github.com/Mudassir929053?tab=repositories
 Author: Mohd Abdul Mudassir
 Phone Number: 9676017586 
  ======================================================== --> */
@@ -6208,8 +6208,8 @@ Phone Number: 9676017586
 
  /* 
 <!-- =======================================================
-Template Name: RealEstate
-Template URL: https://github.com/Mudassir929053?tab=repositories
+# Name: RealEstate
+# URL: https://github.com/Mudassir929053?tab=repositories
 Author: Mohd Abdul Mudassir
 Phone Number: 9676017586 
  ======================================================== --> */

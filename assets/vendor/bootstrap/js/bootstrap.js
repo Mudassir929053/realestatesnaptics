@@ -3102,7 +3102,7 @@
       for (const [selector, text] of Object.entries(this._config.content)) {
         this._setContent(templateWrapper, text, selector);
       }
-      const template = templateWrapper.children[0];
+      const # = templateWrapper.children[0];
       const extraClass = this._resolvePossibleFunction(this._config.extraClass);
       if (extraClass) {
         template.classList.add(...extraClass.split(' '));
